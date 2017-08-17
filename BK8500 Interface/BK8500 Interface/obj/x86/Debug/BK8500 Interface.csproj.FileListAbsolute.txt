@@ -1,0 +1,8 @@
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\BK8500\BK8500 Interface\BK8500 Interface\bin\Debug\BK8500 Interface.exe
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\BK8500\BK8500 Interface\BK8500 Interface\bin\Debug\BK8500 Interface.pdb
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\BK8500\BK8500 Interface\BK8500 Interface\obj\x86\Debug\BK8500_Interface.BK8500_Interface.resources
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\BK8500\BK8500 Interface\BK8500 Interface\obj\x86\Debug\BK8500_Interface.Properties.Resources.resources
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\BK8500\BK8500 Interface\BK8500 Interface\obj\x86\Debug\BK8500 Interface.csproj.GenerateResource.Cache
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\BK8500\BK8500 Interface\BK8500 Interface\obj\x86\Debug\BK8500 Interface.exe
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\BK8500\BK8500 Interface\BK8500 Interface\obj\x86\Debug\BK8500 Interface.pdb
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\BK8500\BK8500 Interface\BK8500 Interface\obj\x86\Debug\BK8500 Interface.csprojResolveAssemblyReference.cache
